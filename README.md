@@ -1,4 +1,6 @@
-### Hello, there 👋
+<h1 align="left">Hello, there 👋</h1>
+
+###
 
 <p align="left">My name is Renata and I'm a Full Stack Developer from Brazil!</p>
 
